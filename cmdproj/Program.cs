@@ -12,7 +12,8 @@ namespace cmdproj
         {
             Console.WriteLine("Hello Dipali!");
             int a = 100, b = 200;
-            Console.WriteLine("Total : a + b =" + (a + b));
+            int c = (a + b);
+            Console.WriteLine("Total : a + b =" + c);
         }
     }
 }
