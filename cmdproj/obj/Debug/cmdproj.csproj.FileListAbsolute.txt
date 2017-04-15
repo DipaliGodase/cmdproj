@@ -1,1 +1,6 @@
 C:\samples\cmdproj\cmdproj\bin\Debug\cmdproj.exe.config
+C:\samples\cmdproj\cmdproj\bin\Debug\cmdproj.exe
+C:\samples\cmdproj\cmdproj\bin\Debug\cmdproj.pdb
+C:\samples\cmdproj\cmdproj\obj\Debug\cmdproj.csprojResolveAssemblyReference.cache
+C:\samples\cmdproj\cmdproj\obj\Debug\cmdproj.exe
+C:\samples\cmdproj\cmdproj\obj\Debug\cmdproj.pdb
