@@ -1,0 +1,1 @@
+C:\samples\cmdproj\cmdproj\bin\Debug\cmdproj.exe.config
